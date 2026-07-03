@@ -169,7 +169,7 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
               </span>
             ))}
           </div>
-          <div className="mt-5 flex gap-3">
+          {/* <div className="mt-5 flex gap-3">
             <a href={project.github} target="_blank" rel="noopener noreferrer"
               className="flex items-center gap-1.5 font-mono text-xs text-muted hover:text-foreground transition-colors">
               <Github className="h-3.5 w-3.5" /> Code
@@ -178,7 +178,7 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
               className="flex items-center gap-1.5 font-mono text-xs text-accent hover:text-primary transition-colors">
               <ExternalLink className="h-3.5 w-3.5" /> Demo
             </a>
-          </div>
+          </div> */}
         </motion.div>
       </div>
 

@@ -13,8 +13,6 @@ export const projects = [
     tech: ["React.js", "TypeScript", "Material UI", "TailwindCSS"],
     year: "2024",
     categories: ["React", "Healthcare"],
-    github: "https://github.com/",
-    demo: "https://github.com/",
   },
   {
     id: 2,
@@ -24,8 +22,6 @@ export const projects = [
     tech: ["React.js", "TypeScript", "Redux", "TailwindCSS"],
     year: "2025",
     categories: ["React", "Healthcare"],
-    github: "https://github.com/",
-    demo: "https://github.com/",
   },
   {
     id: 3,
@@ -35,8 +31,6 @@ export const projects = [
     tech: ["React.js", "TypeScript", "Redux", "TailwindCSS", "REST APIs"],
     year: "2025",
     categories: ["React"],
-    github: "https://github.com/",
-    demo: "https://github.com/",
   },
   {
     id: 4,
@@ -46,7 +40,5 @@ export const projects = [
     tech: ["React.js", "Redux", "TypeScript", "TailwindCSS", "WebSocket"],
     year: "2026",
     categories: ["React", "AI", "Healthcare"],
-    github: "https://github.com/",
-    demo: "https://github.com/",
   }
 ];
